@@ -1,0 +1,32 @@
+/tellraw @a ["",
+
+{"text":"[Tầng Trệt]","color":"white","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 58 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng trệt]","color":"white"}]}}},
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 1]","color":"green","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 62 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 1]","color":"green"}]}}},
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 2]","color":"red","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 66 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 2]","color":"red"}]}}},"",
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 3]","color":"light_purple","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 70 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 3]","color":"light_purple"}]}}},"",
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 4]","color":"yellow","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 74 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 4]","color":"yellow"}]}}},"",
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 5]","color":"dark_blue","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 78 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 5]","color":"dark_blue"}]}}},"",
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 6]","color":"aqua","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 82 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 6]","color":"aqua"}]}}},"",
+
+{"text":"/","color":"dark_gray","bold":"false"},
+
+{"text":"[Tầng 7]","color":"red","bold":"true","clickEvent":{"action":"run_command","value":"/tp -373 86 -410"},"hoverEvent":{"action":"show_text","value":{"text":"","extra":[{"text":"[Đã tới tầng 7]","color":"red"}]}}},""
+]
